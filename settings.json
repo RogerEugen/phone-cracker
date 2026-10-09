@@ -1,0 +1,10 @@
+{
+  "dark_theme": true,
+  "hacker_font": false,
+  "slower_animations": false,
+  "update_check": true,
+  "enable_preload": true,
+  "debug_info": false,
+  "basic_success_checks": true,
+  "contributionsuggestions": true
+}
